@@ -32,7 +32,7 @@
     3. Bank
     
     """,
-    'depends': ['account_chart'],
+    'depends': ['account_chart', 'l10n_id_ar'],
     'demo': [],
     'data': [   
                         'view/view_MultiChartAccount.xml',
